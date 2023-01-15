@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 commit1 in main branch
+=======
+commit 1  Develop Branch
+>>>>>>> Develop
